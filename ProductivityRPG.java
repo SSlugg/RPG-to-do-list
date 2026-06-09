@@ -4,10 +4,7 @@
 
 package org.yourcompany.yourproject;
 
-/**
- *
- * @author Sojeong
- */
+
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
